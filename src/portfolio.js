@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://www.linkedin.com/in/aravinth-raj-developer',
+  homepage: 'https://aravinthraj42.github.io/aravinth-profile-portfolio/',
   title: 'JS.',
 }
 
@@ -13,7 +13,7 @@ const about = {
   resume: 'https://drive.google.com/file/d/1CBHaFdq8zt0aDju6KXnvAs6a9jGTULZT/view?usp=drive_link',
   social: {
     linkedin: 'https://www.linkedin.com/in/aravinth-raj-developer',
-    github: 'https://github.com',
+    github: 'https://aravinthraj42.github.io/aravinth-profile-portfolio/',
   },
 }
 
