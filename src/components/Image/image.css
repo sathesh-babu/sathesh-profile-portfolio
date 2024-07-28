@@ -1,0 +1,43 @@
+/* image.css */
+.image-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 20px;
+  }
+  
+  .image_left{
+    max-width: 20%;
+    margin-left: -100px;
+    align-content:'left';
+    height: auto;
+    object-fit: cover;
+    margin: 0 -100px;
+  }
+  .image_right {
+    max-width: 20%;
+    margin-right: -100px;
+    align-content:'right';
+    height: auto;
+    object-fit: cover; 
+    margin: 0 -100px;
+  }
+  
+  .content {
+    max-width: 90%;
+    text-align: center;
+    margin: 0 10px;
+  }
+/* Responsive design */
+@media (max-width: 768px) {
+    .image_left, .image_right {
+      display: none;
+    }
+  
+    .content {
+      max-width: 100%;
+      margin: 10px 0;
+    }
+  }
+
+  
