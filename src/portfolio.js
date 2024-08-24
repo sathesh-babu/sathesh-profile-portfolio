@@ -10,7 +10,7 @@ const about = {
   role: 'Front End Developer',
   description:
     'Accomplished Front-End Developer with 3 years of experience at Infosys, specializing in creating robust and user-friendly web applications using React JS. Proficient in all stages of the software development lifecycle, from initial requirement gathering to deployment and support.',
-  resume: 'https://drive.google.com/file/d/1CBHaFdq8zt0aDju6KXnvAs6a9jGTULZT/view?usp=drive_link',
+  resume: 'https://drive.google.com/file/d/1cmnd6CQI03LPMe6s9384HuxgpWstg-kF/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/aravinth-raj-developer',
     github: 'https://aravinthraj42.github.io/aravinth-profile-portfolio/',
@@ -53,10 +53,10 @@ const image = {
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
+  'React',
+  'JavaScript'
   'HTML',
   'CSS',
-  'JavaScript',
-  'React',
   'Git',
   'Github',
   'Node JS',
