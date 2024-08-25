@@ -13,7 +13,7 @@ const about = {
   resume: 'https://drive.google.com/file/d/1cmnd6CQI03LPMe6s9384HuxgpWstg-kF/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/aravinth-raj-developer',
-    github: 'https://aravinthraj42.github.io/aravinth-profile-portfolio/',
+    github: 'https://github.com/aravinthraj42',
   },
 }
 
@@ -21,9 +21,9 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'American Express - Card Service',
+    name: 'Infosys - Project: American Express - Card Service',
     description:
-      'At Infosys, I worked for American Express Client in an Agile Scrum Model, I developed and enhanced reusable components, implemented new features, and contributed numerous pull requests to the clients Git repository. I deployed code via Jenkins, managed Linux file systems, and handled version updates for security and feature upgrades. Additionally, I enhanced legacy applications, supported the production team, and provided knowledge transfer sessions to new joiners.',
+      'Worked for American Express Client, We developed and enhanced reusable react components, implemented new features, and contributed numerous pull requests to the clients Git repository.  deployed code via Jenkins, and handled version updates for security and feature upgrades. Additionally, we enhanced legacy applications, supported the production team, and provided knowledge transfer sessions to new joiners.',
     stack: ['React', 'JavaScript', 'Java' , 'JSP'],
     // sourceCode: 'https://github.com',
     // livePreview: 'https://github.com',
@@ -54,7 +54,7 @@ const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
   'React',
-  'JavaScript'
+  'JavaScript',
   'HTML',
   'CSS',
   'Git',
