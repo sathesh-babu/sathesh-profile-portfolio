@@ -6,14 +6,13 @@ const header = {
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'Aravinth Raj',
-  role: 'Front End Developer',
+  name: 'Satheshbabu S',
+  role: 'Associate Engineer',
   description:
-    'Accomplished Front-End Developer with 3 years of experience at Infosys, specializing in creating robust and user-friendly web applications using React JS. Proficient in all stages of the software development lifecycle, from initial requirement gathering to deployment and support.',
+    'Accomplished Automation Tester with 3 years of experience at Aspire Systems, specializing in Automation Scripts and Failure fixes for web, mobile applications using Selenium and Appium Java.',
   resume: 'https://drive.google.com/file/d/1cmnd6CQI03LPMe6s9384HuxgpWstg-kF/view?usp=sharing',
   social: {
-    linkedin: 'https://www.linkedin.com/in/aravinth-raj-developer',
-    github: 'https://github.com/aravinthraj42',
+    linkedin: 'https://www.linkedin.com/in/satheshsundhar/',
   },
 }
 
@@ -53,34 +52,22 @@ const image = {
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
-  'React',
-  'JavaScript',
-  'HTML',
-  'CSS',
+  'JavaScript',  
   'Git',
-  'Github',
-  'Node JS',
-  'JSP',
-  'Prompt Engineering', 
   'MySQL', 
-  'MongoDB',
   'Postman', 
   'Jenkins',
-  'ChromeDevtools', 
-  'NPM',
-  'Jest',
-  'Enzyme',
 
 ]
 const education = {
   // education is optional - if left empty Contact section won't show up
-  degree1: 'B.Sc. in Mathematics, Hindustan College of Arts and Science, Coimbatore, Bharathiar University (2018-2021)',
-  degree2: 'MCA (Distance Education), Madras University (2023-2025)',
+  degree1: 'MCA (Distance Education), Madras University (2023-2025)',
+  degree2: 'B.Sc. in Mathematics, Hindustan College of Arts and Science, Coimbatore, Bharathiar University (2018-2021)',
 }
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'aravinthraj42@gmail.com',
+  email: 'satheshbabusundharajan@gmail.com',
 }
 
 export { header, about, projects,image, skills, education, contact }
